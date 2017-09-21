@@ -1,0 +1,10 @@
+@font-face {
+	font-family: 'pressura';
+	src: url(static/fonts/GTPressuraMono.eot);
+	src: url(static/fonts/GTPressuraMono.eot?#iefix) format('embedded-opentype'),
+		url(static/fonts/GTPressuraMono.woff2) format('woff2'),
+		url(static/fonts/GTPressuraMono.woff) format('woff'),
+		url(static/fonts/GTPressuraMono.ttf) format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
